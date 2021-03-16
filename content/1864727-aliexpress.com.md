@@ -5,7 +5,7 @@ date: 2020-09-17 09:54:07
 image: 'https://ae01.alicdn.com/kf/HTB1XbuNLSzqK1RjSZFjq6zlCFXaT/TWS-Earphones-Wireless-Headphone-Earbuds-Bluetooth-V5-0-Music-Invisible-Noise-Reduction-Ergonomic-Charging-Box.jpg_350x350.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: '1864727-aliexpress.com TWS Earphones Wireless Headphone Earbuds...'
 sku: '1864727-aliexpress.com'
 tags: [  ]

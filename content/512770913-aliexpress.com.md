@@ -5,7 +5,7 @@ date: 2020-10-04 10:24:53
 image: 'https://ae01.alicdn.com/kf/H84eba5de3e0d4fefa1ed51583302e9a6w/Livolo-EU-Standard-2-Gang-1-Way-Wall-Touch-Light-Switch-Wall-power-sensor-switch-7colors.jpg_350x350.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: '512770913-aliexpress.com Livolo EU Standard 2 Gang 1 Way Wall Touch...'
 sku: '512770913-aliexpress.com'
 tags: [  ]

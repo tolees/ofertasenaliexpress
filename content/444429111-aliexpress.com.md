@@ -5,7 +5,7 @@ date: 2020-09-22 10:12:49
 image: 'https://ae01.alicdn.com/kf/HTB1BFElRVXXXXcrXVXXq6xXFXXXh/Flysky-FS-GT3B-FS-GT3B-2-4G-3CH-Gun-RC-System-Transmitter-with-Receiver-For-RC.jpg_350x350.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: '444429111-aliexpress.com Flysky FS-GT3B FS GT3B 2.4G 3CH Gun RC System...'
 sku: '444429111-aliexpress.com'
 tags: [  ]

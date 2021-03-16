@@ -5,7 +5,7 @@ date: 2020-08-04 19:01:04
 image: 'https://ae01.alicdn.com/kf/HTB1a8FYeiMnBKNjSZFoq6zOSFXaQ/Genuine-VONTAR-Openbox-V8S-Plus-DVB-S2-Digital-Satellite-Receiver-Support-Xtream-USB-Wifi-Youtube-Biss.jpg_350x350.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: '515857198-aliexpress.com Genuine VONTAR Openbox V8S Plus DVB-S2 Digital...'
 sku: '515857198-aliexpress.com'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 16:01:00
 image: 'https://ae01.alicdn.com/kf/H7f2867c4cc544fdcac309c633737c1d1j/Livolo-New-EU-Standard-Power-Socket-Outlet-Panel-Triple-Wall-Power-Outlet-Without-Plug-Toughened-Glass.jpg_350x350.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: '629027829-aliexpress.com Livolo New EU Standard Power Socket Outlet...'
 sku: '629027829-aliexpress.com'
 tags: [  ]

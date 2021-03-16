@@ -5,7 +5,7 @@ date: 2020-08-28 23:53:29
 image: 'https://ae01.alicdn.com/kf/HTB1PyDqQFXXXXbwXpXXq6xXFXXXA/500pcs-of-Handmade-signature-wood-Wooden-buttons-Badges-Beads-size-18mm-unvarnished-selected.jpg_350x350.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: '694203876-aliexpress.com 500pcs of Handmade signature wood Wooden...'
 sku: '694203876-aliexpress.com'
 tags: [  ]

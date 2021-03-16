@@ -5,7 +5,7 @@ date: 2020-09-13 12:45:10
 image: 'https://ae01.alicdn.com/kf/H8c9f94a4e0c7480197796bbecb96f1b9r/BAMOER-5-Style-Silver-Color-LOVE-Snake-Chain-Bracelet-Bangle-16CM-21CM-Pulseras-Lobster-PA1104.jpg_350x350.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: '803691705-aliexpress.com BAMOER 5 Style Silver Color LOVE Snake Chain...'
 sku: '803691705-aliexpress.com'
 tags: [  ]
